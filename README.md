@@ -14,7 +14,7 @@ So I updated it :)
   ![image](https://github.com/user-attachments/assets/8f38b711-3889-428d-9aba-b8c49cbffca1)
 
 
-# How tu use
+# How to use
 
 - Import the json in your nest,
 - Create a new server
